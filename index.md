@@ -7,3 +7,6 @@ I made this Using "#" and a single space followed by the caption.
 x = int(input("Enter the value: "))
 print(x)
 ```
+- [ ] Izvesti Linu
+- [ ] Spremiti veceru
+- [ ] Preci GitHub tutorijal
